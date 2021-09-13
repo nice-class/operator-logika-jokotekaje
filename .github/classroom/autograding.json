@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "operator logika",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 60,
+      "points": 100
+    }
+  ]
+}
